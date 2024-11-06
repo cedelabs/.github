@@ -1,11 +1,18 @@
-## Welcome to CEDE 👋
+<h1 align="center">
+    <b>Cede SDK</b>
+</h1>
+
+<p align="center">
+  <img src="https://sdk.cede.store/sdk-banner.svg" alt="Cede SDK">
+</p>
+
+Cede Labs is a GSR and Ledger backed company building CEX (Binance, Coinbase,…) asset management tools for both the institutional market and the consumer market. The team has been accumulating more than 3 years of expertise on CEX connectivity.
+
+[Cede SDK](https://sdk.cede.store) is a CEX connectivity SDK helping custody solutions fast-forward their CEX integrations. Basically: Fireblocks’ CEX connectivity as a service.
 
 
-We're building 3 products:
-- a web-based portfolio management platform, whether it is in the centralized (CEX) or in the decentralized world (DeFi) of the crypto ecosystem.
-- a non-custodial browser extension to manage your cryptos in centralized exchanges.
-- a solid CeFi x DeFi infrastructure for our products and market makes.
-
-For the moment the project is private... <br>
-
-👻 Join our [Discord](https://discord.gg/V7hgKf6NWf) <br>
+## Useful links
+- [SDK CLI](https://github.com/cedelabs/sdk-cli)
+- [Demo Cede SDK](https://www.npmjs.com/package/@cedelabs/demo-sdk). To access to production SDK please contact our team: hello@cedelabs.io
+- [Docs](https://docs-sdk.cede.store/documentation/general-info?mode=js)
+- [Contact Us](hello@cedelabs.io)
